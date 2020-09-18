@@ -1,4 +1,4 @@
-Intruction to use makefile to compile and run the program.
+### Intruction to use makefile to compile and run the program.
 1. Open Terminal in working directory.
 2. type "make build" to compile the program.
 (Note: i am using gcc toolchain if you are using any differnt toolchain put syntax of compiling 
@@ -7,7 +7,7 @@ C program in the makefile)
 4. Use myexe filename/string cmd as per program. 
 
 
-Program 1 
+#### Program 1 
 A program which is used to add two numbers 
 * demo.c is a program file.
 * myexe is a exexutable file.
@@ -19,22 +19,22 @@ A program which is used to add two numbers
 * After this output.txt file contains output as 
 "Addition of 10 and 20 is 30"
 
-Program 2 
+#### Program 2 
 A program which accept name from command line argument and display it on
 screen.
 
-Program 5
+#### Program 5
 A program which accept file name from user and open that file.
 
 
-Program 7
+#### Program 7
 A program which accept file name and read first 5 characters from it.
 
 
-Program 8
+#### Program 8
 A program which accept file name from user and read whole file.
 
 
-Program 9
+#### Program 9
 A program which accept filename and string from user and write that string into
 file.
