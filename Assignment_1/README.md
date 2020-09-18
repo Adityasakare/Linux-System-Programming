@@ -9,14 +9,14 @@ C program in the makefile)
 
 Program 1 
 A program which is used to add two numbers 
-demo.c is a program file.
-myexe is a exexutable file.
-Create file as input.txt in working directoy and write twonumbers in file as 10 20
-Create empty file as output.txt in working directory.
-Use makefile to compile and run the program.
-Run the program as 
-myexe <input.txt> output.txt
-After this output.txt file contains output as 
+* demo.c is a program file.
+* myexe is a exexutable file.
+* Create file as input.txt in working directoy and write twonumbers in file as 10 20
+* Create empty file as output.txt in working directory.
+* Use makefile to compile and run the program.
+* Run the program as 
+`myexe <input.txt> output.txt`
+* After this output.txt file contains output as 
 "Addition of 10 and 20 is 30"
 
 Program 2 
